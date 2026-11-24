@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🛩",
+      "🍥",
+      "💧",
+      "📉",
+      "LiLink"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli Derivation - Energy.md": "LiBattery",
+  "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli Derivation - Streamtube.md": "🪡",
+  "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli Equation.md": "⚡",
+  "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli Limitations.md": "⛔",
+  "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli with Manometers.md": "LiLink",
+  "Fluid Dynamics Block 2/Fluid Dynamics/Discharge Coefficient.md": "📉",
+  "Fluid Dynamics Block 2/Fluid Dynamics/Ideal vs Real Fluids.md": "💧",
+  "Fluid Dynamics Block 2/Fluid Dynamics/Laminar vs Turbulent Flow.md": "🍥",
+  "Fluid Dynamics Block 2/Fluid Dynamics/Pitot-Static Tube.md": "🛩"
+}
