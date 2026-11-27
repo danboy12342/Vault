@@ -63,9 +63,9 @@
               "state": {
                 "file": "Fluid Dynamics Block 2/Block 2 Mind Map.canvas",
                 "viewState": {
-                  "x": 4505.34500735595,
-                  "y": -973.4614413191327,
-                  "zoom": -0.5199961494592196
+                  "x": 1778.0350072730866,
+                  "y": 1519.401555464719,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fb5de881c2a0de2c",
