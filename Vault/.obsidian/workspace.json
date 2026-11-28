@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "481aca71928676fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fluid Dynamics Block 2/Formula Sheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Formula Sheet"
+            }
+          },
+          {
             "id": "ed14e9dc5006324b",
             "type": "leaf",
             "state": {
@@ -39,9 +63,9 @@
               "state": {
                 "file": "Fluid Dynamics Block 2/Block 2 Mind Map.canvas",
                 "viewState": {
-                  "x": 808.8516215956239,
-                  "y": -1246.4263960203398,
-                  "zoom": -0.36666666666666814
+                  "x": 1778.0350072730866,
+                  "y": 1519.401555464719,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -119,25 +143,9 @@
               "icon": "lucide-file",
               "title": "Bernoulli Equation"
             }
-          },
-          {
-            "id": "5c29c432582dd75f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fluid Dynamics Block 2/Sources/ENG2085 Note 8 - Bernoulli 2.pdf",
-                "page": 12,
-                "left": -134,
-                "top": 779,
-                "zoom": 1.6
-              },
-              "icon": "lucide-file-text",
-              "title": "ENG2085 Note 8 - Bernoulli 2"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -323,19 +331,15 @@
   },
   "active": "ed14e9dc5006324b",
   "lastOpenFiles": [
-    "Fluid Dynamics Block 2/Sources/ENG2085 Formula Sheet.pdf",
-    "Fluid Dynamics Block 2/Block 2 Mind Map.canvas",
-    "Fluid Dynamics Block 2/Sources/ENG2085 Note 8 - Bernoulli 2.pdf",
-    "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli with Manometers.md",
-    "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli Derivation - Energy.md",
-    "Fluid Dynamics Block 2/Sources/ENG2085 Slides L8 - Bernoulli 2.pdf",
     "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli Equation.md",
-    "Fluid Dynamics Block 2/Sources/ENG2085 Note 6 - Flow Characteristics.pdf",
-    "Fluid Dynamics Block 2/Fluid Dynamics/Streamlines.md",
     "Fluid Dynamics Block 2/Formula Sheet.md",
-    "Fluid Dynamics Block 2/Block 2 MOC.md",
     "Fluid Dynamics Block 2/Fluid Statics.md",
+    "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli Derivation - Energy.md",
+    "Fluid Dynamics Block 2/Fluid Dynamics/Bernoulli with Manometers.md",
+    "Fluid Dynamics Block 2/Fluid Dynamics/Streamlines.md",
     "Fluid Dynamics Block 2/Fluid Statics/Pascal's Law.md",
+    "Fluid Dynamics Block 2/Block 2 Mind Map.canvas",
+    "Fluid Dynamics Block 2/Block 2 MOC.md",
     "Fluid Dynamics Block 2/Worked Examples Index.md",
     "Fluid Dynamics Block 2/Exam Traps.md",
     "Fluid Dynamics Block 2/Worked Examples/Ex - Lift Ear Pressure (2018 Q3a).md",
@@ -353,11 +357,16 @@
     "Fluid Dynamics Block 2/Fluid Statics/Absolute and Gauge Pressure.md",
     "Fluid Dynamics Block 2/Fluid Dynamics/Venturi Meter.md",
     "Fluid Dynamics Block 2/Fluid Dynamics/Steady vs Uniform Flow.md",
+    "Fluid Dynamics Block 2/Fluid Dynamics/Stagnation Pressure.md",
     "Fluid Dynamics Block 2/Sources/ENG2085 Slides L9 - Applications.pdf",
     "Fluid Dynamics Block 2/Sources/ENG2085 Worked Examples.pdf",
     "Fluid Dynamics Block 2/Sources/ENG2085 Worked Examples - Solutions.pdf",
+    "Fluid Dynamics Block 2/Sources/ENG2085 Slides L8 - Bernoulli 2.pdf",
     "Fluid Dynamics Block 2/Sources/ENG2085 Slides L7 - Bernoulli 1.pdf",
     "Fluid Dynamics Block 2/Sources/ENG2085 Slides L6 - Flow Characteristics.pdf",
-    "Fluid Dynamics Block 2/Sources/ENG2085 Slides L5 - Submerged Bodies.pdf"
+    "Fluid Dynamics Block 2/Sources/ENG2085 Slides L5 - Submerged Bodies.pdf",
+    "Fluid Dynamics Block 2/Sources/ENG2085 Slides L4 - Flat Surfaces.pdf",
+    "Fluid Dynamics Block 2/Sources/ENG2085 Slides L3 - Manometry.pdf",
+    "Fluid Dynamics Block 2/Sources/ENG2085 Slides L2 - Pressure Distribution.pdf"
   ]
 }
