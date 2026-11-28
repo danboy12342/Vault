@@ -7,13 +7,13 @@ aliases: [Inviscid flow, Ideal fluid, No-slip condition]
 
 Part of [[Elementary Fluid Dynamics]] · underpins the "inviscid" assumption in the [[Bernoulli Equation]]
 
-| | **Ideal fluid** | **Real fluid** |
-| :--- | :--- | :--- |
-| Viscosity | zero — **inviscid** | non-zero (often small) |
-| Shear stress | none, even though the fluid moves and accelerates | present → friction |
-| Wall condition | slips along the wall | **no-slip**: $u = 0$ at the wall |
-| Velocity profile in a pipe | flat (uniform) | curved, zero at walls |
-| Regime | typically laminar & incompressible | laminar or turbulent; compressible or not |
+|                            | **Ideal fluid**                                   | **Real fluid**                            |
+| :------------------------- | :------------------------------------------------ | :---------------------------------------- |
+| Viscosity                  | zero — **inviscid**                               | non-zero (often small)                    |
+| Shear stress               | none, even though the fluid moves and accelerates | present → friction                        |
+| Wall condition             | slips along the wall                              | **no-slip**: $u = 0$ at the wall          |
+| Velocity profile in a pipe | flat (uniform)                                    | curved, zero at walls                     |
+| Regime                     | typically laminar & incompressible                | laminar or turbulent; compressible or not |
 
 > [!note] Why we use the ideal model
 > Elementary fluid dynamics = fluid moving under **applied pressure** with no shear, based on Newton's 2nd law. In this block we focus on fluid that is:

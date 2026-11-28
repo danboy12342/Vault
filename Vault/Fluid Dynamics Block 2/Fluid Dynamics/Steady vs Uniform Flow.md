@@ -14,13 +14,13 @@ Part of [[Elementary Fluid Dynamics]] · "steady" is assumption 1 of the [[Berno
 The two are independent — a flow can be any combination.
 
 ## Characterise these flows (from the notes)
-| Situation | Steady? | Uniform? |
-| :--- | :--- | :--- |
-| Expanding pipe, constant $Q$ ($u_1 > u_2$ by [[Continuity Equation\|continuity]]) | ✅ steady | ❌ non-uniform |
-| Constant-diameter pipe, $Q = Q(t)$ changing | ❌ unsteady | ✅ uniform |
-| Stone dropped into a still pond, $u(x,t)$ | ❌ unsteady | ❌ non-uniform |
-| Wave running up a beach, $u(x,t)$ | ❌ unsteady | ❌ non-uniform |
-| Pipe junction, $Q_1 = Q_2 + Q_3$ all constant, $u(x)$ | ✅ steady | ❌ non-uniform |
+| Situation                                                                         | Steady?    | Uniform?      |
+| :-------------------------------------------------------------------------------- | :--------- | :------------ |
+| Expanding pipe, constant $Q$ ($u_1 > u_2$ by [[Continuity Equation\|continuity]]) | ✅ steady   | ❌ non-uniform |
+| Constant-diameter pipe, $Q = Q(t)$ changing                                       | ❌ unsteady | ✅ uniform     |
+| Stone dropped into a still pond, $u(x,t)$                                         | ❌ unsteady | ❌ non-uniform |
+| Wave running up a beach, $u(x,t)$                                                 | ❌ unsteady | ❌ non-uniform |
+| Pipe junction, $Q_1 = Q_2 + Q_3$ all constant, $u(x)$                             | ✅ steady   | ❌ non-uniform |
 
 > [!tip] Exam phrasing
 > "Steady" ≠ "uniform". A nozzle with constant flow is steady but **non-uniform** — the fluid accelerates through it, and that change in velocity is exactly what [[Bernoulli Equation|Bernoulli]] describes.

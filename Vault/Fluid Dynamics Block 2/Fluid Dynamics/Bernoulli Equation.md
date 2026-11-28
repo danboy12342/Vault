@@ -19,11 +19,11 @@ $$p_1 + \tfrac12\rho V_1^2 + \rho g z_1 = p_2 + \tfrac12\rho V_2^2 + \rho g z_2$
 > When they fail → [[Bernoulli Limitations]].
 
 ## Three equivalent forms
-| Form | Equation | Units | Meaning |
-| :--- | :--- | :--- | :--- |
-| Pressure | $p + \rho\frac{V^2}{2} + \rho g z = C$ | Pa = energy/volume | [[Pressure Components in Flow\|static + dynamic + hydrostatic]] |
-| Energy per mass | $\frac{p}{\rho} + \frac{V^2}{2} + g z = C$ | J/kg | pressure work + KE + PE per unit mass |
-| Head | $\frac{p}{\gamma} + \frac{V^2}{2g} + z = H$ | m | [[Pressure Head\|pressure head]] + velocity head + elevation head |
+| Form            | Equation                                    | Units              | Meaning                                                           |
+| :-------------- | :------------------------------------------ | :----------------- | :---------------------------------------------------------------- |
+| Pressure        | $p + \rho\frac{V^2}{2} + \rho g z = C$      | Pa = energy/volume | [[Pressure Components in Flow\|static + dynamic + hydrostatic]]   |
+| Energy per mass | $\frac{p}{\rho} + \frac{V^2}{2} + g z = C$  | J/kg               | pressure work + KE + PE per unit mass                             |
+| Head            | $\frac{p}{\gamma} + \frac{V^2}{2g} + z = H$ | m                  | [[Pressure Head\|pressure head]] + velocity head + elevation head |
 
 ## The constant
 The integration constant is fixed by a **reference point** on the streamline where $p$, $V$, $z$ are known (e.g. the inlet): $C = p_0 + \frac12\rho V_0^2 + \rho g z_0$.

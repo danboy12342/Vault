@@ -11,11 +11,11 @@ aliases: [Block 2, Map of Content, Fluid Mechanics Block 2]
 ENG2085 Fluid Mechanics 2 · University of Glasgow · Dr Eky Febrianto
 
 ## 🎯 Exam (December, in person, 1.5 h, 63% of the course)
-| Question | Topic | Marks | Hub |
-| :--- | :--- | :--- | :--- |
-| Q1 | Block 1 | 20 | — |
-| **Q2** | **Fluid statics** | **20** | [[Fluid Statics]] |
-| **Q3** | **Bernoulli equation** | **20** | [[Elementary Fluid Dynamics]] |
+| Question | Topic                  | Marks  | Hub                           |
+| :------- | :--------------------- | :----- | :---------------------------- |
+| Q1       | Block 1                | 20     | —                             |
+| **Q2**   | **Fluid statics**      | **20** | [[Fluid Statics]]             |
+| **Q3**   | **Bernoulli equation** | **20** | [[Elementary Fluid Dynamics]] |
 
 ## intro
 - [[Fluid Statics]] — Part I hub (Lectures 1–5)
@@ -33,15 +33,15 @@ ENG2085 Fluid Mechanics 2 · University of Glasgow · Dr Eky Febrianto
 
 ##  Core formulas
 
-| | |
-| :--- | :--- |
-| Hydrostatics | $\dfrac{dp}{dz} = -\gamma$, $\;p = p_0 + \gamma h$ |
-| Force on a plane | $F_R = \gamma h_c A$ |
-| Centre of pressure | $h_{cop} = h_c + \dfrac{I_{xc}}{A h_c}$ |
-| Continuity | $A_1V_1 = A_2V_2 = Q$ |
-| Bernoulli | $p + \tfrac12\rho V^2 + \rho g z = \text{const}$ |
-| Venturi | $Q = C_d A_2\sqrt{\dfrac{2\Delta p}{\rho[1 - (A_2/A_1)^2]}}$ |
-| Free jet | $V = \sqrt{2gh}$ |
+|                    |                                                              |
+| :----------------- | :----------------------------------------------------------- |
+| Hydrostatics       | $\dfrac{dp}{dz} = -\gamma$, $\;p = p_0 + \gamma h$           |
+| Force on a plane   | $F_R = \gamma h_c A$                                         |
+| Centre of pressure | $h_{cop} = h_c + \dfrac{I_{xc}}{A h_c}$                      |
+| Continuity         | $A_1V_1 = A_2V_2 = Q$                                        |
+| Bernoulli          | $p + \tfrac12\rho V^2 + \rho g z = \text{const}$             |
+| Venturi            | $Q = C_d A_2\sqrt{\dfrac{2\Delta p}{\rho[1 - (A_2/A_1)^2]}}$ |
+| Free jet           | $V = \sqrt{2gh}$                                             |
 
 ## Graph view setup
 Graph view → Groups → add:

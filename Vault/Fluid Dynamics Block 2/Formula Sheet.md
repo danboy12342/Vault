@@ -7,16 +7,17 @@ aliases: [What's given, Formula sheet, Memorise list]
 
 Part of [[Block 2 MOC]] · official sheet: [[ENG2085 Formula Sheet.pdf]]
 
-## Given in the exam (Block 2 parts)
-| Topic | Given |
-| :--- | :--- |
-| Fluid statics | $p = \rho g h = \gamma h$ → [[Hydrostatic Pressure Distribution]] |
-| | $F = \gamma A h_c$ (vertical plane) → [[Hydrostatic Force on a Plane Surface]] |
-| | $h_{cop} = h_c + \dfrac{I_{xc}}{A h_c}$ → [[Centre of Pressure]] |
-| | Figure of centroids and $I_{xc}$ → [[Centroids and Second Moments of Area]] |
-| Bernoulli | $p + \tfrac12\rho V^2 + \rho g z = \text{const}$, and the two-point form → [[Bernoulli Equation]] |
-| Mass | $V_1A_1 = V_2A_2$, $\dot m = \rho Q = \rho VA$ → [[Continuity Equation]] |
-| Properties | $\gamma = \rho g$, $SG = \rho/\rho_{H_2O}$, $\tau = \mu\,du/dy$, $\nu = \mu/\rho$ |
+## NOT GIVEN
+
+| Topic         | Given                                                                                             |
+| :------------ | :------------------------------------------------------------------------------------------------ |
+| Fluid statics | $p = \rho g h = \gamma h$ → [[Hydrostatic Pressure Distribution]]                                 |
+|               | $F = \gamma A h_c$ (vertical plane) → [[Hydrostatic Force on a Plane Surface]]                    |
+|               | $h_{cop} = h_c + \dfrac{I_{xc}}{A h_c}$ → [[Centre of Pressure]]                                  |
+|               | Figure of centroids and $I_{xc}$ → [[Centroids and Second Moments of Area]]                       |
+| Bernoulli     | $p + \tfrac12\rho V^2 + \rho g z = \text{const}$, and the two-point form → [[Bernoulli Equation]] |
+| Mass          | $V_1A_1 = V_2A_2$, $\dot m = \rho Q = \rho VA$ → [[Continuity Equation]]                          |
+| Properties    | $\gamma = \rho g$, $SG = \rho/\rho_{H_2O}$, $\tau = \mu\,du/dy$, $\nu = \mu/\rho$                 |
 
 ## Memorise
 
